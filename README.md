@@ -9,7 +9,7 @@ https://nmap.org/npcap/dist/npcap-0.99-r7.exe
 
 Install it and select the options like next screenshot:
 
-![Alt text](Capture.png?raw=true "Title")
+![Alt text](Captura.PNG?raw=true "Title")
 
 
 64Bit Release here: https://mega.nz/#!3nZU0SgS!lPbtiSodKF2pJxFB6c5TUWXCMd4U7d3K6my-7WJVzbM
