@@ -1,7 +1,7 @@
-# SuperLanPlayWindowsClient
-Super Lan Play Windows Client
+# Super Lan Play Windows Client
 
 1.- Installation steps.
+=======================
 
 You will require to install PNCAP library.
 Download it from here:
@@ -12,7 +12,8 @@ Install it and select the options like next screenshot:
 ![Options to be checked](Captura.PNG?raw=true "Title")
 
 
-When you finish the installation you can proceed to download the SuperLanPlay client.
+2.- When you finish the installation you can proceed to download the SuperLanPlay client.
+=========================================================================================
 
 Download it and run SuperLanPlay.exe
 
