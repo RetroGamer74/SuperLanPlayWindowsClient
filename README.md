@@ -24,3 +24,11 @@ That's all. Enjoy.
 64Bit Release here: https://mega.nz/#!3nZU0SgS!lPbtiSodKF2pJxFB6c5TUWXCMd4U7d3K6my-7WJVzbM
 
 32Bit Release here: https://mega.nz/#!OmJFDSKa!AnoBSm6Pv0WhQLBXU_WqRUrFuPjUu1C9XOpT7CznGGI
+
+
+# CREDITS
+This app has been developed by Retro Team.
+
+This project is based on Lan-Play imspace development you can find at his own Github in next url:
+
+https://github.com/spacemeowx2/switch-lan-play
