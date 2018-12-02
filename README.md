@@ -35,6 +35,13 @@ If you experience any resolution warning or issue and you can not run the client
 Alternative client (32bit & 64bit): https://github.com/D3fau4/Super-Lan-Play/blob/master/Super-lan-play-client.exe?raw=true
 ```
 
+# TROUBLESHOOTING
+
+If you experience issues and you can not run client or you can not connect it could be npcap is not working for you. In that case you can try using winpcap. Winpcap is very deprecated, because of that, we suggest at the first line of this README to use npcap instead. Anyway we got feedbacks from users working better with winpcap. So here is the link:
+
+https://www.winpcap.org/install/
+
+
 # CREDITS
 This app has been developed by Retro Team.
 
