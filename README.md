@@ -17,6 +17,8 @@ Install it and select the options like next screenshot:
 
 Download it and run SuperLanPlay.exe
 
+![SuperLanPlay](superlanplayapp.JPG?raw=true "Title")
+
 When you click CONNECT an Internet Browser will popup the login form. Remember to follow the steps until you get the web page where you will see a message like 'you can click in CONNECT'. If you obviously already clicked connect, then just click DISCONNECT and CONNECT again.
 
 Please ignore any virus warning. It's a false positive.
