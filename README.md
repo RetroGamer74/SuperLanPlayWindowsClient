@@ -26,14 +26,10 @@ Please ignore any virus warning. It's a false positive.
 That's all. Enjoy.
 
 ```
-64Bit Release here: 
+64Bit & 32Bit Releases here: 
 ```
 https://github.com/RetroGamer74/SuperLanPlayWindowsClient/releases
 
-```
-32Bit Release here: 
-```
-https://github.com/RetroGamer74/SuperLanPlayWindowsClient/releases
 
 If you experience any resolution warning or issue and you can not run the client you can use this one instead:
 
